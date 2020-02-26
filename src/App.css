@@ -1,0 +1,11 @@
+.Stopwatch{
+    display: flex;
+    justify-content: center;
+    padding: 300px 550px;
+    flex-direction: column;
+}
+.btn{
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: white;
+}
